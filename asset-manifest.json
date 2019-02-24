@@ -1,13 +1,13 @@
 {
   "main.css": "/mentor-dashboard/static/css/main.96586cb6.chunk.css",
-  "main.js": "/mentor-dashboard/static/js/main.552b1ded.chunk.js",
-  "main.js.map": "/mentor-dashboard/static/js/main.552b1ded.chunk.js.map",
+  "main.js": "/mentor-dashboard/static/js/main.35b8921f.chunk.js",
+  "main.js.map": "/mentor-dashboard/static/js/main.35b8921f.chunk.js.map",
   "runtime~main.js": "/mentor-dashboard/static/js/runtime~main.5357f730.js",
   "runtime~main.js.map": "/mentor-dashboard/static/js/runtime~main.5357f730.js.map",
-  "static/js/2.e11e22f3.chunk.js": "/mentor-dashboard/static/js/2.e11e22f3.chunk.js",
-  "static/js/2.e11e22f3.chunk.js.map": "/mentor-dashboard/static/js/2.e11e22f3.chunk.js.map",
+  "static/js/2.01274f5e.chunk.js": "/mentor-dashboard/static/js/2.01274f5e.chunk.js",
+  "static/js/2.01274f5e.chunk.js.map": "/mentor-dashboard/static/js/2.01274f5e.chunk.js.map",
   "index.html": "/mentor-dashboard/index.html",
-  "precache-manifest.c4b3e6b8cf3b2e4f14bbf3d543273c6c.js": "/mentor-dashboard/precache-manifest.c4b3e6b8cf3b2e4f14bbf3d543273c6c.js",
+  "precache-manifest.744a2023ba89dc9b5418acae7b480e22.js": "/mentor-dashboard/precache-manifest.744a2023ba89dc9b5418acae7b480e22.js",
   "service-worker.js": "/mentor-dashboard/service-worker.js",
   "static/css/main.96586cb6.chunk.css.map": "/mentor-dashboard/static/css/main.96586cb6.chunk.css.map"
 }
